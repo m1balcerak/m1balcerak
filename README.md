@@ -5,4 +5,4 @@ Hello! I'm Michal Balcerak, currently pursuing a PhD in AI at the University of 
 In addition to my PhD, I'm also a Fellow at Harvard University, where I'm working on inverse problems in biology and PDE-constrained optimization in Prof. Petros Koumoutsakos Lab. I also spent some time at CERN as a Student Researcher, where I was part of the ATLAS Experiment team and built a machine learning framework to identify collisions topologies at the LHC.
 
 I'm always open to discussing ML, energy-based models, computational biology, and applied mathematics. Feel free to reach out to me!
-m1balcerak[at]gmail.com
+m1balcerak[at]gmail.com, webpage: m1balcerak.github.io
